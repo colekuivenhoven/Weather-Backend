@@ -1,0 +1,5 @@
+10/25/2021 9:33:50 [Request Server IP] <Inital Server Start - port: 3040>
+10/25/2021 9:34:7 [Request GET] <Get Weather Info From Zipcode>
+10/25/2021 9:35:12 [Request GET] <Get Weather Info From Zipcode>
+10/25/2021 9:35:21 [Request GET] <Get Weather Info From Zipcode>
+10/25/2021 9:35:26 [Request GET] <Get Weather Info From Zipcode>
